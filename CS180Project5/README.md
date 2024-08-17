@@ -52,4 +52,3 @@ Rakshit test cases and throwing errors to the class to make sure we got the expe
 Messaging Functionality
 Users are able to message other users provided they are not of the same type as the other user (Sellers cannot message sellers, etc.) This messaging system implements two boxes, one inbox which contains mail the user has received, and one outbox which contains mail the user has sent. The messaging system allows users to view their inbox, send messages to other users, edit messages they have sent to other users, or delete messages from either their inbox or outbox (This is client side only and does not remove the message from the other user's mailbox.) The messaging UI allows users to select any one of these options, in which they will be prompted to enter information relevant to their choice.
 
-Bryce is in charge of submitting to Voceraum and the project report to brightspace.
