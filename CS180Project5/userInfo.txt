@@ -1,0 +1,3 @@
+admin password blamarca false false
+username1 password1 user1@purdue.edu false true
+username2 password2 user2@purdue.edu true false
