@@ -1,5 +1,3 @@
-# CS_180_Project_4
-
 Compiling and Running instructions
 The code can be run by running the storefront program. The interface should be self-explanatory 
 with instructions regarding what needs to be done. User information is stored in the userInfo.txt file
